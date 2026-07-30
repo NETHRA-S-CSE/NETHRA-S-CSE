@@ -77,17 +77,7 @@ Document Question Answering using LangChain and Vector Search.
 
 ---
 
-## <img src="https://api.iconify.design/solar:graph-up-bold.svg?color=%238B5CF6" width="18"/> GitHub Analytics
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NETHRA-S-CSE&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NETHRA-S-CSE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## <img src="https://api.iconify.design/solar:share-bold.svg?color=%238B5CF6" width="18"/> Connect
 
